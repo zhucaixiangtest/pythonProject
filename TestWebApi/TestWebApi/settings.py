@@ -79,11 +79,11 @@ WSGI_APPLICATION = 'TestWebApi.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mytest',
-        'PORT': '3214',
-        'HOST': '101.200.43.24',
-        'USER': 'testcx',
-        'PASSWORD': '56.143511fyab',
+        'NAME': 'test',
+        'PORT': '34',
+        'HOST': 'ip',
+        'USER': 'user',
+        'PASSWORD': 'pas',
 
     }
 }
